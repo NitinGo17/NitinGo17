@@ -1,194 +1,238 @@
 # Hi, I'm Nitin Goswami 👋
 
-### BCA Student | Web Developer | Content Writer | AI Enthusiast
+### AI Developer • Web Developer • UI Designer • Content Strategist
 
-I'm a Bachelor of Computer Applications (BCA) student at **Asian School of Business, Noida**, passionate about building web applications, exploring AI technologies, and creating digital experiences that solve real-world problems.
+I build products that combine **technology, design, and communication**.
 
-Alongside my academic journey, I have **6+ years of content writing experience**, working with clients across different industries while continuously expanding my skills in web development, design, and AI.
+Over the past **5+ years**, I've worked across content strategy, SEO, web development, UI design, and artificial intelligence. Today, my focus is creating intelligent digital experiences that solve real-world problems instead of simply demonstrating technical skills.
 
----
-
-## 🚀 About Me
-
-* 🎓 BCA Student (2024-2027) at Asian School of Business
-* 💻 Web Developer specializing in HTML, CSS, JavaScript, and React
-* ✍️ Senior Content Writer with 100+ published SEO-focused articles
-* 🤖 Interested in Artificial Intelligence, Prompt Engineering, and Automation
-* 🎨 Graphic Designer experienced with Canva and Affinity Designer
-* 🌐 WordPress Website Designer
-* 📍 Based in Kolkata, India
+Currently pursuing a **Bachelor of Computer Applications (2024–2027)** at **Asian School of Business, Noida** while working as a **Production Intern at Indian Printer & Publisher**.
 
 ---
 
-## 🛠️ Tech Stack
+# 🌐 Portfolio
 
-### Languages
+### **KnowMe**
 
-* HTML
-* CSS
-* JavaScript
-* Python
-* C#
-* C++
+> **Coming Soon**
 
-### Frontend
+A place where you can explore my work, projects, journey, and experiments.
 
-* React
-* Tailwind CSS
-* Responsive Web Design
-
-### Tools & Platforms
-
-* Git & GitHub
-* VS Code
-* Canva
-* Affinity Designer
-* WordPress
-* Gemini API
-* Firebase
-
-### Marketing & Content
-
-* SEO
-* Content Writing
-* Content Marketing
-* Social Media Marketing
-* Digital Marketing
+🔗 https://knowme.co.in
 
 ---
 
-## 📂 Featured Projects
+# 🚀 What I Do
 
-### 🤖 Aether AI
+💻 Develop modern web applications
 
-A web-based AI chatbot powered by Gemini API.
+🤖 Build AI-powered solutions
 
-**Features**
+🎨 Design intuitive user experiences
 
-* Real-time AI responses
-* Chat history management
-* Error handling and retry logic
-* Responsive UI using Tailwind CSS
+✍️ Create technical and marketing content
 
----
-
-### 🏥 SmartReport
-
-Medical tracking platform designed for rural healthcare centers.
-
-**Highlights**
-
-* Simplified patient record management
-* Reduced manual entry time by 40%
-* Improved healthcare data accessibility
+📈 Solve business problems using technology
 
 ---
 
-### 📄 Fixed
+# 🛠 Tech Stack
 
-Interactive website that helps users build personalized CVs through a gamified experience.
+## Languages
 
----
+- HTML
+- CSS
+- JavaScript
+- Python
+- C#
+- C++
 
-### 🎮 Snake Game
+## Frontend
 
-React-based implementation of the classic Snake Game.
+- Tailwind CSS
+- GSAP
+- Three.js
+- Responsive Design
 
-**Highlights**
+## Backend & Database
 
-* State-driven gameplay
-* Responsive interface
-* Collision detection system
+- Firebase
+- Firestore
+- Authentication
 
----
+## AI
 
-### 🌙 Dream Journal
+- Gemini API
+- Prompt Engineering
+- AI Automation
+- AI Agents (Learning)
 
-Interactive journaling platform featuring:
+## Design
 
-* Mood tracking
-* AI assistant integration
-* Typewriter editor
-* Doodle canvas
-* Productivity tools
+- Affinity Designer
+- Canva
+- Figma (Learning)
 
----
+## Tools
 
-### 🎯 MCQ Game
-
-Browser-based educational game developed by converting C logic into JavaScript.
-
----
-
-## 🏆 Achievements
-
-* 🥈 Secured **2nd Rank** in a Delhi University Hackathon
-* 💰 Won ₹3,000 Prize Money
-* 🔟 Top 10 Position in **Technofusion 1.0**
-* Participated in:
-
-  * Ideathon 7.0
-  * ASBIC 2024
-  * CaseCraft 1.0
-  * Budget Conclave
-  * Nukkad Natak
+- Git
+- GitHub
+- VS Code
+- WordPress
 
 ---
 
-## 💼 Experience
+# 🚀 Featured Projects
 
-### Production Intern
+## 🧠 MindShift
 
-**Indian Printer & Publisher**
-*May 2026 - Present*
-
-* Web Development
-* WordPress Website Design
-* Social Media Poster Design
-* EDM & Magazine Design
-
-### Senior Content Writer
-
-**Freelance**
-*April 2024 - Present*
-
-* SEO Content Creation
-* Blog Writing
-* Website Content
-* Content Strategy
-
-### Content Writer
-
-**Expanders**
-*2020 - 2026*
-
-### Content Writing Intern
-
-**Induscribe**
-*2023*
+An AI-powered productivity platform designed to improve planning, thinking, and personal organization.
 
 ---
 
-## 📚 Currently Learning
+## 🏛 GramSetu
 
-* Advanced React
-* AI Integrations
-* Full Stack Development
-* Firebase
-* Modern UI/UX Design
-* AI Agent Development
+A Smart Government Scheme Discovery Platform that helps users identify government schemes through intelligent eligibility detection and multilingual support.
 
 ---
 
-## 📫 Connect With Me
+## 🩺 SmartReport
 
-📧 Email: [dreamernitin17@gmail.com](mailto:dreamernitin17@gmail.com)
+A healthcare platform developed for rural medical centers to simplify patient record management.
 
-📱 Phone: +91 8910294066
+### Impact
 
-🔗 LinkedIn: [*Add your LinkedIn URL here*](https://www.linkedin.com/in/nitin-goswami-7a229326b/)
-
+- Reduced manual data entry
+- Improved healthcare accessibility
+- Simplified patient tracking
 
 ---
 
-### "Building solutions, learning continuously, and turning ideas into reality."
+## 🖥 KnowMe
+
+My personal portfolio built from scratch to showcase projects, design work, AI experiments, and my journey as a developer.
+
+---
+
+## 🏢 IPP Event Management
+
+A responsive event management platform created for the Indian Printer & Publisher exhibition.
+
+---
+
+# 💼 Professional Experience
+
+## Production Intern
+### Indian Printer & Publisher
+**May 2026 – Present**
+
+- Website Development
+- WordPress
+- EDM Design
+- Magazine Design
+- Social Media Creatives
+
+---
+
+## Freelance Content Strategist & Writer
+
+For more than **5 years**, I've created digital content for businesses across multiple industries.
+
+My work includes:
+
+- Technical Blogs
+- SEO Articles
+- Website Content
+- Landing Pages
+- LinkedIn Content
+- Instagram Posts
+- Reel Scripts
+- YouTube Scripts
+- Product Descriptions
+- Marketing Copy
+- News Articles
+- Transcription
+- Content Strategy
+
+This experience taught me how technology, design, and communication work together to build products people actually use.
+
+---
+
+# 🏆 Achievements
+
+🥈 2nd Rank – Delhi University Hackathon
+
+🏅 Top 10 – Technofusion 1.0
+
+🎤 Participated in
+
+- Ideathon 7.0
+- ASBIC 2024
+- CaseCraft 1.0
+- Budget Conclave
+- Nukkad Natak
+
+---
+
+# 📚 Currently Learning
+
+- AI Agents
+- Three.js
+- Advanced JavaScript
+- System Design
+- Full Stack Development
+- Modern UI Engineering
+
+---
+
+# 🎯 Current Mission
+
+I'm building my personal brand around one idea:
+
+> **Create technology that people enjoy using.**
+
+Whether it's an AI application, a website, a design system, or a digital product, my goal is always the same:
+
+**Build something useful.
+Build it well.
+Keep improving it.**
+
+## 🎯 Current Focus
+
+- 🤖 Building AI-powered web applications
+- 🌐 Developing KnowMe (Personal Portfolio)
+- 🎨 Creating interactive UI experiences
+- 📚 Learning Three.js & AI Agents
+- 🚀 Exploring Full-Stack Development
+
+---
+
+# 🤝 Connect With Me
+
+🌐 Portfolio
+
+https://knowme.co.in
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/nitin-goswami-7a229326b/
+
+📧 Email
+
+nitin.goswami.office@gmail.com
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=NitinGo17&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=NitinGo17&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NitinGo17&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NitinGo17&theme=tokyo-night)](https://github.com/NitinGo17)
+---
+
+> *"The best projects don't happen when code, design, and ideas compete.*
+>
+> *They happen when all three work together."*
